@@ -1,0 +1,25 @@
+{
+  "name": "timelogz",
+  "version": "0.0.4",
+  "description": "A package for better console logs.",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fayaz-246/timelogz.git"
+  },
+  "keywords": [
+    "Logs"
+  ],
+  "author": "Fayaz ( GhostdevDBD )",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fayaz-246/timelogz/issues"
+  },
+  "homepage": "https://github.com/Fayaz-246/timelogz#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
